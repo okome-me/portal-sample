@@ -1,0 +1,6 @@
+{
+  "menu": [
+    {"id": 1, "name": "Qiita", "url":"https://qiita.com/"},
+    {"id": 2, "name": "Vue.js", "url":"https://jp.vuejs.org/v2/guide/list.html"}
+  ]
+}
